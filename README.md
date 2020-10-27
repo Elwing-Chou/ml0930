@@ -20,3 +20,7 @@ filter(lambda x: x not in punct, jieba.cut(content))
 ```python
 content = re.sub(r'https?:\/\/.*[\r\n]*', '', content)
 ```
+
+### 推薦文章
+
+[連結](https://colab.research.google.com/drive/1-h_qSJFwfHaJsg2boTX8hIevOSuGqjni?usp=sharing)
